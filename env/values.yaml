@@ -21,6 +21,6 @@ jenkins:
   Servers:
     Global:
       EnvVars:
-        DOCKER_REGISTRY: core.harbor.wedevops.io
+        DOCKER_REGISTRY: docker.io
         TILLER_NAMESPACE: kube-system
 prow: {}
