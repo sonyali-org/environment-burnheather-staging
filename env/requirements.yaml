@@ -19,3 +19,6 @@ dependencies:
 - name: sonyademo-go31
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: sonyademo-go32
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
